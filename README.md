@@ -5,7 +5,7 @@ DynamicChromosome contains code for inferring paired and transcriptional states 
 
 **Reference**: 
     David Brückner, Hongtao Chen, Lev Barinov, Benjamin Zoller and Thomas Gregor, 
-    [https://www.biorxiv.org/content/10.1101/2023.01.18.524527v1](https://www.biorxiv.org/content/10.1101/2023.01.18.524527v2)
+    [https://www.biorxiv.org/content/10.1101/2023.01.18.524527v2](https://www.biorxiv.org/content/10.1101/2023.01.18.524527v2)
 
 
 -----------------------------------------------------------------------
